@@ -1,0 +1,7 @@
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\bin\Debug\matris projesi.exe.config
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\bin\Debug\matris projesi.exe
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\bin\Debug\matris projesi.pdb
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\obj\Debug\matris projesi.csproj.AssemblyReference.cache
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\obj\Debug\matris projesi.csproj.CoreCompileInputs.cache
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\obj\Debug\matris projesi.exe
+D:\HG\C#\Oyun\proje 1\Oyun\matris projesi\obj\Debug\matris projesi.pdb
